@@ -1,0 +1,184 @@
+                P    R    I    M    P    Ë    R    A    N   v2.0
+                ---------- -------------- --------- -----
+
+TIMES:
+
+
+        PART01::TITLE                                           10"
+
+        PART02::CREDITS:COMPOSITION                             15"
+
+        PART03::INDICATIONS                                     10"
+
+        PART04::DOSAGE (DIRECTIONS FOR USE) 	                30"
+
+        PART05::CONTRA-INDICATIONS                              10"
+
+        PART06::WARNINGS                                        10"
+
+        PART05::GREETINGS                                       20"
+
+        PART06::SIDE EFFECTS	                                10"
+
+¬_¬     PART07::FINAL:PANTALLA AZUL SOBRE LOS MEDICAMENTOS      LOQUEDURE
+
+
+        T      O      T       A       L          1'55" o sea 2'00" + o -..  
+
+
+DEZIGN:
+
+=====================================================================BEFORE==
+c:\..\P.EXE
+
+_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~
+
+ATENCION!!!!!!
+me falta esta parte/frase. lo que hay es copy-paste del folleto del primperan
+y queda de coña, pero hay que decir realmente que no se tome primperan cuando
+haya los sintomas abajo enumerados.
+hay que retocarlo, pero yo ya he gastado todas mis neuronas para esta traduccion.
+esto es lo unico que falta.
+
+	As both Primperan and phenothiazines may cause benign transient 
+	dystonia, care should be exercised in the event of both drugs 
+	being prescribed concurrently.
+
+_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~
+
+	ADULTS:
+
+		* Spasm of facial and extraocular muscles
+		* Tristums
+		* Rhythmic protrusion of the tonge
+		* Unnatural positioning of head and shoulders
+		* Galactorrhoea and gynaecomastia 
+		* Generalised increase in muscle tone
+
+	WOMEN:
+
+		The use of metoclopramide throughout the duration 
+		of pregnancy is considered unsafe as teratogenicity 
+		has been demonstrated in animal studies.
+
+	 ______________________________________________________
+	|                                                      |
+	|  STORAGE INSTRUCTIONS                                |
+	|                                                      |
+	|  Since metoclopramide hydrochloride, the active      |
+	|  ingredient of Primperan, is affected by light, it   |
+	|  is essential to protect tablets and syrup from      |
+	|  direct hdcrashes. Store in a dry place below 25°C.  |
+	|  KEEP OUT OF REACH OF LAMERS.			       |
+	|______________________________________________________|
+
+					
+					      . F U Z Z I O N .	
+
+============================================================================================
+PART01::PRESENTATION
+
+fuzzion presents primperan
+metocloropramide
+solution
+orally and visually
+64kb intro
+
+PART02::CREDITS:COMPOSITION 
+
+
+	text: (orally)
+		CODED TABLETS.....................BP kb
+		Excipients: fuzziochloride.........1 kb
+
+		VISUAL & ORAL SYRUP............TRACE kb
+		Excipients: threepixybenzamide...100 kb
+
+		AUDITIVE & ORAL SOLUTION.........SML kb
+		Excipients: fuzzioxypropate.....2 pills
+
+		ADDITIONAL COMPONENTS............CCM kb
+		Excipients: fuzziodiethylbenzoate..4 kb
+
+PART03::INDICATIONS
+
+	Symptomatic treatment of quakers and vomits.
+	Digestive overturns brought about lamers,
+	cobaltherapy and antineoplastic chemicaldemotherapy.
+	It is specially recommended in the polimorf demopathy,
+	vesselmotor rinitis, dezign allergy and yellow fever.
+	
+	For the relief of upper gastro-quakestinal symptoms 
+	including heartburn, nausea and vomiting in flatulent
+	dyspepsia, where no addiction is demonstrable.
+
+	Post-party gastric hypotonia. Postlazytomy syndrome.
+
+PART04::DOSAGE (DIRECTIONS FOR USE)
+
+
+        ADULTS: Two 64k medicine measurefuls three times hourly.
+	
+        CHILDREN: Half to one 64k medicine measureful two times daily 
+	  	  as required.
+
+	Sucklers and children (0-10 kg): Half to one 5 ml spoonful
+	of syrup 20-30 minutes before the barium meal or intubation.
+
+PART05::CONTRA-INDICATIONS
+
+	Since commercialism effectively blocks the action of the scene
+	the concomitant administration of this and other anticholinergic 
+	drugs should be avoided.
+
+PART06::PRECAUTIONS
+
+	This solution contains design. The use of this component in 
+	some spanish sceners is	considered unsafe as intolerancy 
+	has been demonstrated in party studies.
+	Anti-parkinsonian medicines of the anticholinergic type may 
+	be used to counteract these reactions.
+
+PART05::GREETINGS
+
+        ANACONDYL 500. for the drowsiness
+        COLLAPSIROL. for the old age
+        RGBADRYL. for the burns
+        THREEPIXOL. for throat pains
+        HANSATINE. for anal problems
+        STRAVAGANZEROL. for hyperactivity
+        NETWORKASAN. for the psychic state 
+        OZONID_FORTE. for the schizophrenia
+        UNKNOWN_COMPLEX. for the cough
+        CONCEPTEREL. for the headache
+        TLOTBINOL. for the hearing
+
+PART06::SIDE EFFECTS
+
+	Primperan has given rise to a reasonably low incidence 
+	of side-effects, with absence of serious toxicity and 
+	excellent tolerance by oral and parenteral routes. 
+	Although uncommon, drowsiness and dystonic reactions 
+	have been reported in elite sceners subjects to long
+	treatmens. These are reversible, usually disappearing 
+	within 24 hours of non-stopping party-attendance.
+
+PART07::FINAL
+
+read the instructions of this medicine and consult your pharmacist
+
+======================================================================AFTER==
+HEADLINE AND APPLICANT
+
+Headline
+POCAFEINA LABS INC
+http://www.FUZZiON.org
+
+Applicant
+FUZZiON GROUP - Barcelona (SPAIN)
+email us : fuzzion@planet-d.net
+
+                                                     . INJECTABLE PRIMPERAN  . 
+
+c:\..\dir  
+=============================================================================
